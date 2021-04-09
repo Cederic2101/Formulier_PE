@@ -1,0 +1,17 @@
+#error{
+    background-color: rgb(243, 161, 161);
+    color: red;
+}
+#succes{
+    background-color: rgb(106, 223, 82);
+    color: rgb(0, 94, 20);
+}
+#betalingswijze{
+    background-color: rgb(129, 191, 233);
+    color: rgb(43, 162, 241);
+}
+button{
+    background-color: blue;
+    color:white;
+    margin-left: 20%;
+}
